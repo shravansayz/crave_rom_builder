@@ -22,9 +22,9 @@ on:
         required: true
         default: 'tar xzf ./actions-runner-linux-x64-2.314.1.tar.gz'
       C:
-        description: "Create the runner and start the configuration experience:./config.sh --url https://github.com/xc112lg/crave_rom_builder --token BGKZGPDBR2BRZ2SAMPLEONLY"
+        description: "Create the runner and start the configuration experience:./config.sh --url https://github.com/shravansayz/crave_rom_builder --token A2CDPEXPVE6YKL6XWHY5LM3F7VL7A"
         required: true
-        default: './config.sh --url https://github.com/xc112lg/crave_rom_builder --token BGKZGPDBR2BRsampleonly'
+        default: './config.sh --url https://github.com/shravansayz/crave_rom_builder --token A2CDPEXPVE6YKL6XWHY5LM3F7VL7A'
 
      
 jobs:
