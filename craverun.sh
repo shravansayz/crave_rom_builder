@@ -9,7 +9,7 @@ crave run --no-patch  -- "          #© crave.io Inc. 2017-2024
               #respect the rule
 
 rm -rf .repo/local_manifests 
-git clone https://github.com/xc112lg/local_manifests -b main .repo/local_manifests
+git clone https://github.com/shravansayz/local_manifests -b droid .repo/local_manifests
 /opt/crave/resync.sh
  
 source build/envsetup.sh
